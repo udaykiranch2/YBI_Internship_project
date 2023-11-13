@@ -1,3 +1,3 @@
 # YBI_Internship_project
 
-MOvie Recommendation
+Movie Recommendation
